@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Azamat Zhamakeev</h1>
-<h3 align="center"> Frontend / Fullstack developer from Kyrgyzstan!</h3>
+<h3 align="center">React / Frontend / Fullstack developer! </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
