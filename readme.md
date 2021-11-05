@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Azamat Zhamakeev</h1>
-<h3 align="center">A passionate frontend developer from Kyrgyzstan!</h3>
-
-- 🌱 I’m currently learning **web development**
-
-- 💬 Ask me about **anything!**
-
-- 📫 How to reach me **aza670.aj@gmail.com**
+<h3 align="center"> Frontend/Fullstack developer from Kyrgyzstan!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
